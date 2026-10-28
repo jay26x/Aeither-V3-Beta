@@ -1,0 +1,6 @@
+{
+  "alert": {
+    "category": "master",
+    "sounds": [ { "name": "kuro:alert", "stream": false } ]
+  }
+}
